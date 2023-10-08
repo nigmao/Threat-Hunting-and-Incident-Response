@@ -5,3 +5,9 @@
 - sans for 508 : incident response: https://www.sans.org/tools/sift-workstation/
 - SANS Institute
 - Thành thạo Volatility
+- https://download-directory.github.io
+- [Malware Hunting with Microsoft Sysintenals Tools | TryHackMe](https://www.youtube.com/watch?v=owAOHsLyD3Y) .
+- atomic team:
+  * https://github.com/redcanaryco/atomic-red-team
+  * https://atomicredteam.io/atomics/#impact
+  * ...
