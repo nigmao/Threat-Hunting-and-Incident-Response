@@ -13,3 +13,6 @@
   * https://atomicredteam.io/atomics/#impact
   * https://www.loldrivers.io
   * ...
+- Video:
+  * https://www.youtube.com/watch?v=bR6s1UJ4aAs
+  * ...
