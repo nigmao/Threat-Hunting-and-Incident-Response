@@ -16,3 +16,9 @@
 - Video:
   * https://www.youtube.com/watch?v=bR6s1UJ4aAs
   * ...
+
+- Security Operations Center (SOC) tools and technologies:
+  * SIEM:
+    + CyM viettel
+    + IBM Qradar SIEM solution
+    + CyRadar 
