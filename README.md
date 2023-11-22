@@ -9,7 +9,7 @@
 - https://www.linkedin.com/posts/meisameslahi_youtube-cybersecurity-threathunting-activity-7113422873146359808-CHjj?utm_source=share&utm_medium=member_ios
 
 ```ps1
-certutil -hashfile [path]
+certutil -hashfile [path] [type-encrypt]
 ```
 
 ## [1]. Incident Response
