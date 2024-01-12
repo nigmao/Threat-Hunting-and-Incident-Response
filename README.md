@@ -8,8 +8,10 @@
   * `2.` Workstation logs (Linux or Windows).
 - https://www.linkedin.com/posts/meisameslahi_youtube-cybersecurity-threathunting-activity-7113422873146359808-CHjj?utm_source=share&utm_medium=member_ios
 
+- https://www.youtube.com/watch?v=C-0JD1Fwk7U
+
 ```ps1
-certutil -hashfile [path] [type-encrypt]
+certutil -hashfile [path] sha256
 ```
 
 ## [1]. Incident Response
