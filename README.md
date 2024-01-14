@@ -15,9 +15,10 @@ certutil -hashfile [path] sha256
 ```
 
 ## [1]. Incident Response
+- `Lab`: https://cyberdefenders.org/search/labs/?q=pcap
 - Ecosystem SOC team:
   - splunk
-  - soa
+  - soar
   - siem
   - ...
 - Security Operations Center (SOC) program and technologies:
