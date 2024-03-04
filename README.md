@@ -29,6 +29,9 @@ certutil -hashfile [path] sha256
     + IBM Qradar SIEM solution
     + CyRadar 
 
+- Tools:
+   * Velociraptor imo DFIR
+
 ## [2]. Certifications
 - https://www.giac.org/
 - https://www.sans.org/apac/
