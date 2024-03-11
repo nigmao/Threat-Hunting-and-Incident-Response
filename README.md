@@ -18,6 +18,7 @@ certutil -hashfile [path] sha256
 - Tools:
   - Linux: https://github.com/kunai-project/kunai
   - Windows: https://github.com/Yamato-Security/hayabusa
+  - https://docs.velociraptor.app/
 ## [1]. Incident Response
 - `Lab`: https://cyberdefenders.org/search/labs/?q=pcap
 - Ecosystem SOC team:
