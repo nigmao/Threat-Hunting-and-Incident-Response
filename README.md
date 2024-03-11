@@ -15,7 +15,9 @@ certutil -hashfile [path] sha256
 ```
 
 - Hunt linux: https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/
-
+- Tools:
+  - Linux: https://github.com/kunai-project/kunai
+  - Windows: https://github.com/Yamato-Security/hayabusa
 ## [1]. Incident Response
 - `Lab`: https://cyberdefenders.org/search/labs/?q=pcap
 - Ecosystem SOC team:
